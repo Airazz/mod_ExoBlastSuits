@@ -2,7 +2,7 @@ Name Blast Armor Boots
 ShortName armorBBoots
 Icon armorBBoots
 Color 255 255 255
-ItemID 16502
+ItemID 5001
 Type Boots
 Defence 0.5
 Recipe C plateCarbon O plateObsidian R plateRedstone S canSlimeSili
