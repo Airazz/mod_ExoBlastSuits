@@ -1,0 +1,12 @@
+Name Blast Armor Pants
+ShortName armorBPants
+Icon armorBPants
+//Colour in Red, Green, Blue, each going up to 255.
+Color 255 255 255
+ItemID 16504
+Type Pants
+Defence 0.5
+Recipe C plateCarbon O plateObsidian R plateRedstone S canSlimeSili
+CRC
+OSO
+C C
