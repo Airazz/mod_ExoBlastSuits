@@ -1,2 +1,5 @@
-0.2 - Added Blast Armor 15.5. 2013
+0.5 - Added Blast Armor 15.5. 2013
+0.4 - Added Cans 13.5. 2013
+0.3 - Added Platings 12.5. 2013
+0.2 - Started planing for future 12.5. 2013
 0.1 - Birthday 12.5. 2013
