@@ -1,0 +1,5 @@
+5000-canEmpty
+5001-armorBBoots
+5002-armorBHead
+5003-armorBPants
+5004-armorBBody
