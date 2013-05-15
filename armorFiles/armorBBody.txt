@@ -1,0 +1,12 @@
+Name Blast Armor Chestplate
+ShortName armorBBody
+Icon armorBBody
+//Colour in Red, Green, Blue, each going up to 255.
+Color 255 255 255
+ItemID 16503
+Type Body
+Defence 0.5
+Recipe C plateCarbon O plateObsidian R plateRedstone S canSlimeSili
+C C
+OSO
+CRC
